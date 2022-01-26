@@ -7,7 +7,7 @@ In this project, we analyze `ga4_obfuscated_sample_ecommerce dataset`, an [obfus
 
 Our goal is to **increase purchase revenue for our eCommerce store** by analyzing data and finding out whether promotions (homepage carousels) help the business grow. If yes, how could we apply promotions to improve our business in the future?
 
-According to our analysis, we find that **promotions on the website did help our business grow**. Therefore, we uncover various insights by analyzing the data, which can **be transformed into actions to improve the business**. 
+According to our analysis, we find that **promotions on the website did help our business grow**. Therefore, we uncover various insights by analyzing the data, which can **be transformed into actions and assist us with building promotional strategies** to improve the business. 
 
 Finally, we integrate insights we found with practice, and **create an A/B test plan** to achieve the project objective.  From data to insights, we discover opportunities and build up strategies. And from results to decisions, we make positive and profitable impacts on the company.
 
@@ -42,13 +42,14 @@ The following topics will be covered in this project:
   * Design the Experiment
 
 
-## Report & Dashboards
+## Repor, Dashboards & Other
 
 * **`Analysis Report.docx`**
-  * Detailed Information about Analysis Process and Insights
+  * Detailed information about analysis process, insights, and strategies
 * **`eCommerce Promotion Analysis.twb`**
-  * Data Visualization
-
+  * Data visualization
+* **`item_category_mapping_df.csv`
+ * Mapping list of item category to corresponding items
 
 ## Query & Codes
 
