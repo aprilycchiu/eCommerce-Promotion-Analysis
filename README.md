@@ -54,18 +54,23 @@ The following topics will be covered in this project:
 
 **`0. query_BigQuery_code.sql`**
   * SQL query for querying event data in `ga4_obfuscated_sample_ecommerce dataset` from BigQuery
+
 **`1. data_query.ipynb`**
   * Show how we download query results as a Pandas DataFrame.
   * Export data in CSV file fomat `ecommerce_all.csv`.
+
 **`2. data_preparation.ipynb`**
   * Conduct data processing and data aggregation to generate data for visualization and further analysis
   * Create two datasets: `ecommerce_session.csv` and `ecommerce_item.csv`.
+
 **`3. promotional_data.ipynb`**
   * Data preparation for discovering successful characteristics and popular item categories for future promotions.
   * Generate three datasets: `promotion_metrics.csv`, `promotion_view_item_category.csv`, and `promotion_trend.csv`.
+
 **`4. cluster_analysis.ipynb`**
   * Identify product preference among customers using cluster analysis.
   * Implement clustering on items based on product popularity and customer behavior.
+
 **`5. calculation_for_ab_test.ipynb`**
   * Calculate parameters in the formula of getting sample size for A/B test.
 
@@ -78,6 +83,5 @@ The following topics will be covered in this project:
   * [Download query results to DataFrame](https://cloud.google.com/bigquery/docs/samples/bigquery-query-results-dataframe)
 * GA4
   * [BigQuery Export integration](https://support.google.com/analytics/topic/9359001?hl=en&ref_topic=9306488)
-  * [Dimensions and metrics](https://support.google.com/analytics/answer/9143382)
   * [Introduction to Google Analytics 4: Ecommerce](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce)
   * [Google Analytics 4 Events](https://developers.google.com/analytics/devguides/collection/ga4/reference/events)
