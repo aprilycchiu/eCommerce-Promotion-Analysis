@@ -48,8 +48,8 @@ The following topics will be covered in this project:
   * Detailed information about analysis process, insights, and strategies
 * **`eCommerce Promotion Analysis.twb`**
   * Data visualization
-* **`item_category_mapping_df.csv`
- * Mapping list of item category to corresponding items
+* **`item_category_mapping_df.csv`**
+  * Mapping list of item category to corresponding items
 
 ## Query & Codes
 
