@@ -45,7 +45,7 @@ The following topics will be covered in this project:
 ## Report & Dashboards
 
 * **`Analysis Report.docx`**
-  * Analysis Structure and Outcome
+  * Detailed Information about Analysis Process and Insights
 * **`eCommerce Promotion Analysis.twb`**
   * Data Visualization
 
