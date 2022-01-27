@@ -46,8 +46,8 @@ The following topics will be covered in this project:
 
 * **`Analysis Report.docx`**
   * Detailed information about analysis process, insights, and strategies
-* **`eCommerce Promotion Analysis.twb`**
-  * Data visualization
+* **`eCommerce Promotion Analysis.twb`, `eCommerce Promotion Analysis.twbx`**
+  * Data visualization dashboards
 * **`item_category_mapping_df.csv`**
   * Mapping list of item category to corresponding items
 
