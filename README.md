@@ -9,7 +9,7 @@ Our goal is to **increase purchase revenue for our eCommerce store** by analyzin
 
 According to our analysis, we find that **promotions on the website did help our business grow**. Therefore, we uncover various insights by analyzing the data, which can **be transformed into actions and assist us with building promotional strategies** to improve the business. 
 
-Finally, we integrate insights we found with practice, and **create an A/B test plan** to achieve the project objective.  From data to insights, we discover opportunities and build up strategies. And from results to decisions, we make positive and profitable impacts on the company.
+Finally, we integrate insights we found with real-world practice, and **create an A/B test plan** to achieve the project objective.  From data to insights, we discover opportunities and build up strategies. And from results to decisions, we make positive and profitable impacts for the company.
 
 **Note: Please refer to `Analysis Report.docx` to get the detailed analysis process and results.**
 
