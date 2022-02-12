@@ -42,11 +42,11 @@ The following topics will be covered in this project:
   * Design the Experiment
 
 
-## Repor, Dashboards & Other
+## Report, Dashboards & Others
 
 * **`Analysis Report.docx`**
   * Detailed information about analysis process, insights, and strategies
-* **`eCommerce Promotion Analysis.twb`, `eCommerce Promotion Analysis.twbx`**
+* **`eCommerce Promotion Analysis.twbx`**
   * Data visualization dashboards
 * **`item_category_mapping_df.csv`**
   * Mapping list of item category to corresponding items
@@ -79,7 +79,7 @@ The following topics will be covered in this project:
 ## Helpful Links
 
 * Google Cloud
-  * [Create and Manage service accounts and service account keys](https://cloud.google.com/iam/docs/creating-managing-service-accounts)
+  * [Create and manage service accounts and service account keys](https://cloud.google.com/iam/docs/creating-managing-service-accounts)
   * [Create credentials with scopes](https://cloud.google.com/bigquery/docs/samples/bigquery-auth-drive-scope)
   * [Download query results to DataFrame](https://cloud.google.com/bigquery/docs/samples/bigquery-query-results-dataframe)
 * GA4
