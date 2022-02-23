@@ -19,7 +19,7 @@ Finally, we integrate insights we found with real-world practice, and **create a
 The following topics will be covered in this project:
 * Get the data, dive deeper into the data, and structure our analysis
   * Advance preparation
-  * Download query results for `ga4_obfuscated_sample_ecommerce dataset` as a Pandas DataFrame
+  * Download query results for `ga4_obfuscated_sample_ecommerce` dataset as a Pandas DataFrame
   * Dig into the data and structure the customer journey funnel
 * Answer the first question: "Did promotions help our business grow?"
   * Data preparation for performing exploratory data analysis 
