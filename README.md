@@ -3,7 +3,7 @@
 
 ## Overview
 
-In this project, we analyze `ga4_obfuscated_sample_ecommerce dataset`, an [obfuscated Google Analytics 4-property dataset for BigQuery](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset), which contains business/eCommerce data from [Google Merchandise Store](https://www.googlemerchandisestore.com/), an online store that sells Google-branded merchandise.
+In this project, we analyze `ga4_obfuscated_sample_ecommerce` dataset, an [obfuscated Google Analytics 4-property dataset for BigQuery](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset), which contains business/eCommerce data from [Google Merchandise Store](https://www.googlemerchandisestore.com/), an online store that sells Google-branded merchandise.
 
 Our goal is to **increase purchase revenue for our eCommerce store** by analyzing data and finding out whether promotions (homepage carousels) help the business grow. If yes, how could we apply promotions to improve our business in the future?
 
@@ -54,7 +54,7 @@ The following topics will be covered in this project:
 ## Query & Codes
 
 **`0. query_BigQuery_code.sql`**
-  * SQL query for querying event data in `ga4_obfuscated_sample_ecommerce dataset` from BigQuery
+  * SQL query for querying event data in `ga4_obfuscated_sample_ecommerce` dataset from BigQuery
 
 **`1. data_query.ipynb`**
   * Show how we download query results as a Pandas DataFrame.
